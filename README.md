@@ -17,7 +17,7 @@ O dashboard analisa o **faturamento, pedidos, comportamento dos clientes e méto
 ✅ **Distribuição Geográfica**: Mapa interativo mostrando as cidades onde a loja fictícia opera.  
 ✅ **Tipo de Consumo**: Comparação entre pedidos via delivery e consumo no local.  
 ✅ **Estilo de Pagamento**: Gráfico com a divisão entre crédito, débito, dinheiro e Pix.  
-
+✅ **📅 Filtro por Período e Estado**: Agora é possível filtrar os dados por **dia, mês e ano**, segmentando as informações por estado, proporcionando uma análise mais detalhada das vendas.  
 
 ## 🛠️ Tecnologias Utilizadas  
 
@@ -28,8 +28,8 @@ O dashboard analisa o **faturamento, pedidos, comportamento dos clientes e méto
 
 1. **Baixe o arquivo** `.pbix` do Power BI disponível no repositório.  
 2. **Abra no Power BI Desktop**.  
-3. Explore as métricas, gráficos e interações do dashboard.  
+3. Explore as métricas, gráficos e interações do dashboard, utilizando os filtros avançados para análises detalhadas.  
 
----
+---  
 
 📌 **Aviso:** Este projeto tem apenas fins educacionais e demonstrativos.  
